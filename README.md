@@ -25,6 +25,12 @@
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/> 
 </p>
 
+## 🧮 GitHub Statistics
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JericoLuzardoMiranda&show_icons=true&theme=dark" alt="GitHub-Statistics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JericoLuzardoMiranda&layout=compact&theme=dark" alt="Languages-Statistics">
+</div>
+
 <!--
 **JericoLuzardoMiranda/JericoLuzardoMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
